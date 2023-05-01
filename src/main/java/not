@@ -1,0 +1,8 @@
+----FRONT CONTROLLER -----
+* bir yazılım mimarisi veya tasarım desenidir
+* istemciden gelen tüm istekleri tek bir merkezi noktada yakalar ve işleme sürecini yönlendirir
+
+** gelen requesti öncelikle karşılayıp ilgili ilgili controller'a yönlendirmek
+
+
+
